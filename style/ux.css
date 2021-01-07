@@ -1,15 +1,32 @@
-/*Full Banner Home*/
 
 /*Header*/
-#header{background-color:#8e10b9;}
+#header{background-color:#8e10b9; padding: 8px 0px; -webkit-box-shadow: 0px 13px 37px -15px rgba(0,0,0,0.75); -moz-box-shadow: 0px 13px 37px -15px rgba(0,0,0,0.75); box-shadow: 0px 13px 37px -15px rgba(0,0,0,0.75);}
+#header img{margin-left: 20px;}
+
+/*Full Banner Top*/
+.fullBanner-top{background-image: url(../img/bannerfull_top.jpg); height: 911px; background-repeat: no-repeat; background-size: cover; background-position: top;}
+.fullBanner-top h1, h2{color: #FFF; text-align: center; margin-top: 20px; font-size: 50px; text-shadow: 2px 4px 5px #000000;}
+.fullBanner-top h2{margin-top: -10px; font-size: 42px;}
+a.btn-credito{display: block; margin: 65px auto; width: 30%;}
+a.btn-credito img{border-radius: 10px;}
+.fullLine{background-color:#8e10b9; padding: 15px 0px 5px 0px; opacity: 0.6;}
+.fullLine p{opacity: 1; color: #FFF; font-size: 35px; text-align: center; text-shadow: 2px 4px 5px #000000;}
+.boxes-group{margin-top: 70px}
+.boxes-group .bg-cyan{background-color: #40d3b9; padding: 10px 25px;}
+.boxes-group .bg-cyan span.line{height: 1px; width: 100%; background-color: red; display: block;}
+a.btn-simulacao{display: block; margin: 50px auto; width: 50%;}
+a.btn-credito-2{margin: 20px auto;;}
 
 /*About*/
-#about{background-color: #64089b;}
+#about{background-color: #64089b; padding: 30px 20px 50px 20px;}
+#about .bg-pink{background-color: pink; padding: 30px; border-radius: 25px;}
+#about .bg-pink p{color: #FFF; text-shadow: 2px 2px 5px #000000;}
 
 /*About Graphic*/
 #about-graphic{background-color: #fff;}
 
 /*Full Banner*/
+#full-banner-center{background-image: url(../img/bannerfull_center.jpg); height: 540px; background-repeat: no-repeat; background-size: cover; background-position: top;}
 
 /*Testimonials*/
 #testimonials{background-color: #64089b;}
