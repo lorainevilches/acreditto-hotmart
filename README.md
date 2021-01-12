@@ -30,11 +30,16 @@ Acreditto - is a banking correspondent where you negotiate with financial instit
 ## Features
 
 - [x] Initial Documentation
-- [ ] HTML structure
-- [ ] CSS Style
-- [ ] Test UX Mobile
-- [ ] Test UX Desktop
+- [x] HTML structure
+- [x] CSS Style
+- [x] Test UX Desktop
 - [ ] Hotmart Upload
+
+---
+
+## BUG
+
+- [ ] Responsive Style
 
 ---
 
@@ -62,7 +67,7 @@ Before you begin, you will need to have the following tools installed on your ma
 
 ## Author
 
-Under Construction
+Loraine Vilches as Front-End
 
 ---
 
